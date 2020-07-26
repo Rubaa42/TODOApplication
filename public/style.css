@@ -1,0 +1,10 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+span{
+    color: red;
+}
+.btn-danger , .btn-dark{
+    float: right;
+    margin-left: 5px;
+}
